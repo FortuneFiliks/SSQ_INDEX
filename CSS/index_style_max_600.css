@@ -9,6 +9,7 @@
     	--alpha_text_color :#223a66;
     }
 	body{
+		overflow-x : hidden !important;
 	}
 	
      /*****************NAV SECTION***************/
