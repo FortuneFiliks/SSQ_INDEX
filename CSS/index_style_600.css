@@ -708,6 +708,7 @@
     	border-bottom-right-radius : 50px;
     	border-top-right-radius : 50px;
     	border-bottom-left-radius : 50px;
+	overflow : hidden;
     }
     
     .food_plan_btn:hover{
@@ -801,6 +802,7 @@
     	min-height : 75vh;
     	background-color : #000000B2;
     	padding-top : 75px;
+        overflow-y : hidden;
     }
     
     .tenth_section_slides{
