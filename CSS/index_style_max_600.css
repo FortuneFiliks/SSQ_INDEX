@@ -1,9 +1,6 @@
 @media(max-width : 600px){
 /*************************************************START*************************************************/
     *{
-    	padding : 0;
-    	margin : 0;
-        overflow-x : hidden;
 	
     }
     
@@ -689,7 +686,7 @@
     	border-bottom-right-radius : 10px;
     	border-top-right-radius : 10px;
     	border-bottom-left-radius : 10px;
-	overflow : hiddden;
+	overflow : hidden;
     }
     
     .food_plan_btn:hover{
@@ -700,6 +697,7 @@
     .arrow_warm_up{
     	transform : rotate(90deg);
     	font-size : 2.5rem;
+	display : none;
     }
 /******************************NINTH SECTIION******************************/
     .ninth_section{
