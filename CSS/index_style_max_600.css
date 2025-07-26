@@ -38,7 +38,7 @@
      .brand_heading{
      	padding-right : 5%;
      	padding-left : 1.5%;
-		width : 37.5%;
+		width : 30%;
      }
      .brand_heading a{
      	font-weight : 600;
@@ -715,7 +715,7 @@
     	padding-left : 3%;
     	padding-top : 10vh;
     	display : flex;
-		flex-direction : column;
+	flex-direction : column;
     	justify-content : space-between;
     }
     
